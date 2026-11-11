@@ -156,9 +156,9 @@ São 20 verificações (compilação sem avisos, criação, as 4 ordenações, I
 
 ## Integrantes
 
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
+- Felipe de Oliveira Brito
+- Veronica dos Santos Lima
+- Victor Correa
 
 ## Documentação adicional
 
